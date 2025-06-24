@@ -72,6 +72,6 @@ LIMIT 1;
 🤝 Connect
 If you found this project helpful or would like to collaborate, feel free to connect:
 
-LinkedIn <!-- www.linkedin.com/in/umar-alam-a1b2c3 -->
+LinkedIn  www.linkedin.com/in/umar-alam-a1b2c3 
 
 📧 Email: alamumar258455@gmail.com
