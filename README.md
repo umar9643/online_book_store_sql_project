@@ -88,7 +88,8 @@ LIMIT 1;
 If you found this project helpful or would like to collaborate, feel free to connect with me:
 
 - 📧 **Email:** alamumar258455@gmail.com  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/umar-alam-a1b2c3](https://www.linkedin.com/in/umar-alam-a1b2c3)
+- 🧳 **LinkedIn:** [Umar Alam LinkedIn Profile](https://www.linkedin.com/in/umar-alam-a1b2c3)
+
 
 
 
