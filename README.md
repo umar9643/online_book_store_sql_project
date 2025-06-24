@@ -83,12 +83,18 @@ ORDER BY order_count DESC
 LIMIT 1;
 
 
+📬 Contact
+For feedback, suggestions, or collaboration, feel free to reach out via:
 
-### 📡 Connect  
-If you found this project helpful or would like to collaborate, feel free to connect with me:
+GitHub: [umar9643]
+LinkedIn: www.linkedin.com/in/umar-alam-a1b2c3
+Email: alamumar258455@gmail.com  
 
-- 📧 **Email:** alamumar258455@gmail.com  
-- 🧳 **LinkedIn:** [Umar Alam LinkedIn Profile](https://www.linkedin.com/in/umar-alam-a1b2c3)
+
+
+
+
+
 
 
 
