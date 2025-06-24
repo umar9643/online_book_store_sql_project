@@ -87,8 +87,10 @@ LIMIT 1;
 For feedback, suggestions, or collaboration, feel free to reach out via:
 
 GitHub: [umar9643]
-LinkedIn: www.linkedin.com/in/umar-alam-a1b2c3
+LinkedIn: [Umar Alam's Profile](https://www.linkedin.com/in/umar-alam-a1b2c3)
+
 Email: alamumar258455@gmail.com  
+
 
 
 
