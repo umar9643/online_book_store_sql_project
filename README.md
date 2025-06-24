@@ -56,6 +56,15 @@ This project is a hands-on SQL database design and query solution based on a boo
 
 ---
 
+📬 Contact
+For feedback, suggestions, or collaboration, feel free to reach out via:
+
+GitHub: [umar9643](https://github.com/umar9643)
+LinkedIn: [Umar Alam's Profile](https://www.linkedin.com/in/umar-alam-a1b2c3)
+Email: alamumar258455@gmail.com  
+
+
+
 ## 📌 Sample Query
 
 > 🔍 Find the most frequently ordered book:
@@ -83,13 +92,7 @@ ORDER BY order_count DESC
 LIMIT 1;
 
 
-📬 Contact
-For feedback, suggestions, or collaboration, feel free to reach out via:
 
-GitHub: [umar9643]
-LinkedIn: [Umar Alam's Profile](https://www.linkedin.com/in/umar-alam-a1b2c3)
-
-Email: alamumar258455@gmail.com  
 
 
 
